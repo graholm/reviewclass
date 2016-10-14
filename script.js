@@ -1,3 +1,3 @@
-function myFunction() {
-  document.getElementById("demo").style.color = "red";
+function bluefunction() {
+  document.getElementById("dog").borderColor
 }
