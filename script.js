@@ -1,3 +1,3 @@
 function bluefunction() {
-  document.getElementById("dog").borderColor
+  document.getElementById("dog").borderCol
 }
